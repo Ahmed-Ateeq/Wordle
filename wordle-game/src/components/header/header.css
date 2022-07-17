@@ -1,0 +1,36 @@
+.header-container {
+  display: flex;
+  width: 638px;
+  height: 84px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.heading {
+    font-size: 40px;
+    color: #202537;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+}
+
+.icons {
+    width: 27px;
+    height: 27px;
+    color: #818181;
+}
+
+.question-icon {
+  margin-left: 22px;
+}
+
+.header-right-side {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.icon-right {
+    margin: 0px 10px 0px 10px;
+}
